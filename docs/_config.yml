@@ -1,10 +1,12 @@
 # theme: jekyll-theme-slate
 
+repository: https://github.com/buzzjmd/tryit
+
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/tryit"
+# baseurl: "/tryit"
 
 
 # Set the Sass partials directory, as we're using @imports
